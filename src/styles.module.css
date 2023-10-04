@@ -1,0 +1,26 @@
+.app {
+
+}
+
+.section {
+
+	background: url(https://www.autexacoustics.com/_next/image?url=https%3A%2F%2Fcms.autexacoustics.co.nz%2Fus%2Fwp-content%2Fuploads%2Fsites%2F4%2F2023%2F09%2FWeb_SF_banner.jpg&w=2048&q=100);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+
+#solutions {
+
+	background: url(https://www.autexacoustics.com/_next/image?url=https%3A%2F%2Fcms.autexacoustics.co.nz%2Fus%2Fwp-content%2Fuploads%2Fsites%2F4%2F2023%2F09%2FWeb_SF_banner.jpg&w=2048&q=100);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+
+.overlay {
+	height: 100vh;
+	width: 100%;
+	background: rgba(0,0,0,0.1);
+	position: absolute;
+}
